@@ -30,7 +30,7 @@ This project is developed using React, SCSS. It is a travel list application whe
 
 ### Links
 
-- Live on: [Netlify](https://todayilearned-parham.netlify.app/)
+- Live on: [Netlify](https://react-travel-list.netlify.app/)
 
 ## My process
 
